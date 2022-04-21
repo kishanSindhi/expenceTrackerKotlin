@@ -2,6 +2,7 @@ package com.example.expensetracker
 
 import android.content.ContentValues
 import android.content.Intent
+import android.database.Cursor
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Toast
@@ -20,16 +21,12 @@ class HomeScreen : AppCompatActivity() {
         if (rs.moveToFirst()){
             homeTotalExp.setText("${rs.getInt(0)} Rs")
         }
-
-
         floatingActionButton.setOnClickListener{
-//            if (rs.moveToFirst()){
-//                var total:Int = rs.getInt(0)
-//                Toast.makeText(this, "$total", Toast.LENGTH_SHORT).show()
-//            }
             val intent = Intent(this, AddExp::class.java)
             startActivity(intent)
         }
         rs.requery()
+
+
     }
 }
