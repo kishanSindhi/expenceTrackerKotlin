@@ -9,12 +9,11 @@
 
     <androidx.cardview.widget.CardView
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="120dp"
         android:layout_gravity="center"
         android:layout_margin="10dp"
-        app:cardCornerRadius="5dp"
-        android:elevation="3dp"
-        app:cardBackgroundColor="#D3D3D3"
+        app:cardCornerRadius="15dp"
+        android:elevation="13dp"
         >
         <LinearLayout
             android:layout_width="wrap_content"
@@ -29,16 +28,16 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="Total Expense"
-                    android:textSize="25sp"
+                    style="@style/TextAppearance.AppCompat.Large"
                     android:textStyle="bold"
+                    android:layout_marginHorizontal="5dp"
                     />
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:id="@+id/homeTotalExp"
                     android:text="500 ₹"
-                    android:textSize="25sp"
-                    android:layout_marginLeft="10dp"
+                    style="@style/TextAppearance.AppCompat.Large"
                     />
 
         </LinearLayout>
@@ -47,7 +46,8 @@
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/recyclerView"
         android:layout_width="match_parent"
-        android:layout_height="523dp" />
+        android:layout_height="413dp"
+        tools:listitem="@layout/layout_exp" />
 
     <com.google.android.material.floatingactionbutton.FloatingActionButton
         android:id="@+id/floatingActionButton"
