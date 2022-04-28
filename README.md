@@ -1,5 +1,6 @@
+<div style="width:200px ; height:200px">
 ![Logo](https://user-images.githubusercontent.com/83533427/165739375-5d1d5fd1-1c2b-4981-bf4b-35f0303174e8.jpg)
-
+</div>
 # Expensoo 
 
 Expensoo is build using Kotlin. It is created to track all the expenses which are made recently, and it will also display the sum of expenses which are made till date. All the data is stored locally and is protected. All the data is stored in SQLite database.
