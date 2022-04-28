@@ -1,7 +1,3 @@
-<!-- <div style="width:200px ; height:200px">
-![Logo](https://user-images.githubusercontent.com/83533427/165739375-5d1d5fd1-1c2b-4981-bf4b-35f0303174e8.jpg)
-</div> -->
-
 <img src="https://user-images.githubusercontent.com/83533427/165739375-5d1d5fd1-1c2b-4981-bf4b-35f0303174e8.jpg" width="200" height="200">
 
 # Expensoo 
@@ -10,7 +6,8 @@ Expensoo is build using Kotlin. It is created to track all the expenses which ar
 
 # Screenshots
 
-![Screenshot1](https://user-images.githubusercontent.com/83533427/165740295-16a91bd4-7010-4d6e-b56c-cfff29fb2fb4.jpeg)
+<!-- ![Screenshot1](https://user-images.githubusercontent.com/83533427/165740295-16a91bd4-7010-4d6e-b56c-cfff29fb2fb4.jpeg) -->
+<img scr="https://user-images.githubusercontent.com/83533427/165740295-16a91bd4-7010-4d6e-b56c-cfff29fb2fb4.jpeg" width="300" height="900">
 
 ![Screenshot2](https://user-images.githubusercontent.com/83533427/165740291-a4c76030-6ca1-4542-891a-fa5f0af08287.jpeg)
 
