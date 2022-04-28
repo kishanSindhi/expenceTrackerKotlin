@@ -1,6 +1,8 @@
-<div style="width:200px ; height:200px">
+<!-- <div style="width:200px ; height:200px">
 ![Logo](https://user-images.githubusercontent.com/83533427/165739375-5d1d5fd1-1c2b-4981-bf4b-35f0303174e8.jpg)
-</div>
+</div> -->
+
+<img src="https://user-images.githubusercontent.com/83533427/165739375-5d1d5fd1-1c2b-4981-bf4b-35f0303174e8.jpg" width="200" height="200">
 
 # Expensoo 
 
