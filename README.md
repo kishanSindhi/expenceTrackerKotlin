@@ -6,7 +6,8 @@ Expensoo is build using Kotlin. It is created to track all the expenses which ar
 
 # Screenshots
 
-![Screenshot1](https://user-images.githubusercontent.com/83533427/165740295-16a91bd4-7010-4d6e-b56c-cfff29fb2fb4.jpeg)
+<img src="https://user-images.githubusercontent.com/83533427/165740295-16a91bd4-7010-4d6e-b56c-cfff29fb2fb4.jpeg" width="200" height="200">
+<!-- ![Screenshot1](https://user-images.githubusercontent.com/83533427/165740295-16a91bd4-7010-4d6e-b56c-cfff29fb2fb4.jpeg) -->
 
 ![Screenshot2](https://user-images.githubusercontent.com/83533427/165740291-a4c76030-6ca1-4542-891a-fa5f0af08287.jpeg)
 
