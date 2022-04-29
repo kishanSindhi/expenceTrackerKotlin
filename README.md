@@ -9,7 +9,7 @@ Expensoo is build using Kotlin. It is created to track all the expenses which ar
 
 # Home screen
 
-All the details of the expenses will displayed over here in recycler view
+All the details of the expenses will displayed over here in recycler view along with the total expense.
 
 <img src="https://user-images.githubusercontent.com/83533427/165740282-71bd751d-1fb5-46de-a165-cc896932642c.jpeg" width="30%" height="30%">
 
